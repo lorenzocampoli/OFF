@@ -1,4 +1,4 @@
-# OFF
+# OFF--KAPPA
 
 OFF, Open source Finite volumes Fluid dynamics code [see documentation](http://szaghi.github.com/OFF/index.html).
 
